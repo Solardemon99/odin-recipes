@@ -1,0 +1,28 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    font-weight: 800;
+    font-size: 250%;
+    color: violet;
+    background-color: ivory;
+}
+
+.dis {
+font-size: 20px;
+color: #5dbb63;
+background-color: #fff1fa;
+}
+
+.ingredients {
+font-size: 20px;
+color: rgb(93, 171, 202);
+background-color: rgb(211, 211, 211);
+}
+
+.instructions {
+font-size: 20px;
+color: chartreuse;
+background-color: grey;
+}
